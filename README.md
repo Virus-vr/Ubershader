@@ -1,6 +1,6 @@
 # Ubershader
-This shader was made for **Onward** by **Virus** and **Argon**
-When you encounter problems please *DM* **virus_vr** or **argon_vr** on *Discord*
+This shader was made for **Onward** by **Virus** and **Argon**.
+If you encounter problems please *DM* **virus_vr** or **argon_vr** on *Discord*
 
 ## Main
 **Base Map:**             Select a base texture map for your material <br>
@@ -30,7 +30,6 @@ When you encounter problems please *DM* **virus_vr** or **argon_vr** on *Discord
 1. Default:           Will use default UVs
 2. Parallax Mapping:  Will use UVs based on Height Map and *Parallax* Settings (requires Height Map)
 3. No_Tiling:         Will enable No-Tiling (can have a performance impact over default, since Textures have to be sampled twice)
-<br>
 **Tiling and Offset:**    Adjust the tiling (X & Y) and the offset (Z & W) of all maps selected in **Main** <br>
 <br>
 ## Parallax
